@@ -21,6 +21,7 @@ target/
 
 # Environment files
 application.properties
+.env
 
 ### NetBeans ###
 /nbproject/private/
